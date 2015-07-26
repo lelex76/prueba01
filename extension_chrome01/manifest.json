@@ -1,0 +1,11 @@
+{
+	"manifest_version": 2,
+	"name": "mi primera extension",
+	"version": "0.1",
+	"description": "extension para ver articulos de la constitucion chilena",
+	"background_page": "bg.html",
+	"browser_action": {
+		"default_icon": "img/icono.png", 
+		"default_popup": "popup.html"
+	}
+}
